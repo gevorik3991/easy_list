@@ -1,3 +1,4 @@
+#include "easy_list.h"
 void itc_rshift_list(vector <int> &mass)
 {
     int len = mass.size();
